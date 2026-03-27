@@ -1,0 +1,16 @@
+╭─── Claude Code v2.1.83 ──────────────────────────────────────────────────────╮
+│                                        │ Tips for getting started            │
+│              Welcome back!             │ Run /init to create a CLAUDE.md fi… │
+│                                        │ ─────────────────────────────────── │
+│                 ▐▛███▜▌                │ Recent activity                     │
+│                ▝▜█████▛▘               │ No recent activity                  │
+│                  ▘▘ ▝▝                 │                                     │
+│                                        │                                     │
+│   qwen3.5:cloud · API Usage Billing    │                                     │
+│   ~\OneDrive\Desktop\expense-tracker   │                                     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+  ↑ Opus now defaults to 1M context · 5x more room, same pricing
+
+❯ /permissions                                                                  
+  ⎿  Added allow rule WebSearch
